@@ -18,25 +18,25 @@
   - 웹사이트 내 포토 커뮤니티 기능으로 인테리어 정보에 관해 공유하여 회원간의 원활한 소통이 가능해진다. 
   
 ### :point_right: 프로젝트 결과
-  - 메인화면
+  :mag_right: 메인화면
   ![캡처](https://user-images.githubusercontent.com/69784492/130011612-22e1f27d-c8b1-4b05-82cf-52db9fd75fa1.JPG)
   
-  - 로그인 후 메인화면
+  :mag_right: 로그인 후 메인화면
   ![캡처](https://user-images.githubusercontent.com/69784492/130011741-fffe7d5f-2cc8-4897-ade6-08d03fce2fe1.JPG)
   
-  - 카테고리 상품 목록
+  :mag_right: 카테고리 상품 목록
   ![캡처](https://user-images.githubusercontent.com/69784492/130011812-909a916e-a895-46c2-a31f-4db347e8d09c.JPG)
   
-  - 상품 상세 페이지
+  :mag_right: 상품 상세 페이지
   ![캡처](https://user-images.githubusercontent.com/69784492/130011997-1963b82a-d039-488a-9532-4ed760111689.JPG)
   
-  - QnA 커뮤니티
+  :mag_right: QnA 커뮤니티
   ![캡처](https://user-images.githubusercontent.com/69784492/130012293-f9c106e3-a7b7-48e9-833d-49b751816e28.JPG)
   
-  - Photo 커뮤니티
+  :mag_right: Photo 커뮤니티
   ![캡처](https://user-images.githubusercontent.com/69784492/130012410-01837a02-2660-4e05-8c05-742d754ec91d.JPG)
   
-  - Photo 커뮤니티 글 상세 페이지
+  :mag_right: Photo 커뮤니티 글 상세 페이지
   ![캡처](https://user-images.githubusercontent.com/69784492/130012452-1783c993-4d96-497e-955a-d714dba35b96.JPG)
   
   
